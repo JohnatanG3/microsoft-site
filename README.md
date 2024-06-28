@@ -3,11 +3,11 @@
 Este projeto é uma página de entrada simples para a Microsoft, criada usando HTML, CSS e Bootstrap. A página inclui um cabeçalho com links de navegação, uma seção principal de conteúdo promovendo produtividade e um rodapé com links de suporte, sobre e redes sociais.
 
 ## Demonstração
-Você pode visualizar o site [aqui](https://microsoft-site-portfolio.netlify.app/).
+Você pode visualizar o site [aqui](https://macro-portfolio-responsivo.netlify.app/).
 
 ## Recursos
 
-- Design Responsivo: A página é totalmente responsiva e se ajusta a vários tamanhos de tela usando Bootstrap.
+- Design Responsivo: A página é totalmente responsiva e se ajusta a vários tamanhos de tela usando Bootstrap e estilos personalizados para dispositivos móveis.
 - Navegação no Cabeçalho: Inclui links para diferentes serviços da Microsoft e ícones para busca, carrinho e perfil de usuário.
 - Seção Principal de Conteúdo: Promove a produtividade com um título, descrição e um botão de chamada para ação.
 - Rodapé: Contém links de suporte, sobre e redes sociais.
