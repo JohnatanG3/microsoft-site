@@ -28,6 +28,16 @@ header {
             color: #262626;
         }
     }
+
+    .list-microsoft-resp {
+        display: none;
+    }
+}
+
+.carousel-inner {
+    .img-carousel-resp {
+        display: none;
+    }
 }
 
 .carousel-content {
